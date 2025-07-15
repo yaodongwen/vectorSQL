@@ -1,0 +1,3002 @@
+[
+  {
+    "output": "<answer>A</answer>",
+    "question": "Pancreas retransplantation:  a second chance for diabetic patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "1"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Pitfalls in urinary stone identification using CT attenuation values: are we getting the same information on different scanner models?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "2"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "3"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Injury and poisoning mortality among young men--are there any common factors amenable to prevention?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "4"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is laparoscopic adrenalectomy safe and effective for adrenal masses larger than 7 cm?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "5"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are head and neck specific quality of life measures necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "6"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can infundibular height predict the clearance of lower pole calyceal stone after extracorporeal shockwave lithotripsy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "7"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "8"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is severe pain immediately after spinal augmentation a predictor of long-term outcomes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "9"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "10"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can continuous physical training counteract aging effect on myoelectric fatigue?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "11"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "May mean platelet volume levels be a predictor in the diagnosis of pelvic inflammatory disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "12"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "13"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "14"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are income-related differences in active travel associated with physical environmental characteristics?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "15"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Counter sampling combined with medical provider education: do they alter prescribing behavior?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "16"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can you deliver accurate tidal volume by manual resuscitator?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "17"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are we seeing the effects of public awareness campaigns?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "18"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "A short stay or 23-hour ward in a general and academic children's hospital: are they effective?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "19"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does a family meetings intervention prevent depression and anxiety in family caregivers of dementia patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "20"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Cycloplegic autorefraction in young adults: is it mandatory?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "21"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do family physicians make good sentinels for influenza?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "22"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do all ethnic groups in New Zealand exhibit socio-economic mortality gradients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "23"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does sex affect the outcome of laparoscopic cholecystectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "24"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is duration of psychological treatment for depression related to return into treatment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "25"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Immune suppression by lysosomotropic amines and cyclosporine on T-cell responses to minor and major histocompatibility antigens: does synergy exist?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "26"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Did Chile's traffic law reform push police enforcement?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "27"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is the holmium:YAG laser the best intracorporeal lithotripter for the ureter?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "28"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are there progressive brain changes in schizophrenia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "29"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is endothelin-1 an aggravating factor in the development of acute pancreatitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "30"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does skin care frequency affect the severity of incontinence-associated dermatitis in critically ill patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "31"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "32"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Comparing femoral version after intramedullary nailing performed by trauma-trained and non-trauma trained surgeons: is there a difference?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "33"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does quilting suture prevent seroma in abdominoplasty?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "34"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is aerobic workload positively related to ambulatory blood pressure?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "35"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "36"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "37"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "38"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does normothermic normokalemic simultaneous antegrade/retrograde perfusion improve myocardial oxygenation and energy metabolism for hypertrophied hearts?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "39"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "40"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is discordance in TEOAE and AABR outcomes predictable in newborns?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "41"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Prevalence of chronic conditions among Medicare Part A beneficiaries in 2008 and 2010: are Medicare beneficiaries getting sicker?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "42"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can mass drug administration lead to the sustainable control of schistosomiasis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "43"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does obesity predict knee pain over fourteen years in women, independently of radiographic changes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "44"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do nontriploid partial hydatidiform moles exist?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "45"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Do we need imaging to diagnose appendicitis in children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "46"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does oral α-galactosidase relieve irritable bowel symptoms?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "47"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "48"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does lung ischemia and reperfusion have an impact on coronary flow?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "49"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "50"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "51"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Biliary atresia: should all patients undergo a portoenterostomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "52"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Updating emotional content in working memory: a depression-specific deficit?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "53"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can D-dimer become a new diagnostic parameter for acute appendicitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "54"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Cholestasis associated with small bowel atresia: do we always need to investigate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "55"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Suturing of the nasal septum after septoplasty, is it an effective alternative to nasal packing?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "56"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Cold knife conization vs. LEEP. Are they the same procedure?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "57"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is controlled ovarian stimulation in intrauterine insemination an acceptable therapy in couples with unexplained non-conception in the perspective of multiple pregnancies?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "58"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "59"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are neighbourhood social capital and availability of sports facilities related to sports participation among Dutch adolescents?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "60"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are stroke patients' reports of home blood pressure readings reliable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "61"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "62"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does lunar position influence the time of delivery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "63"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does maternal obesity have an influence on feeding behavior of obese children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "64"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Comparative safety of infliximab and etanercept on the risk of serious infections: does the association vary by patient characteristics?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "65"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Prostatic syndrome and pleural effusion: are they different diseases?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "66"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "67"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are interstitial fluid concentrations of meropenem equivalent to plasma concentrations in critically ill patients receiving continuous renal replacement therapy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "68"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does music influence stress in mechanically ventilated patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "69"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Should early extubation be the goal for children after congenital cardiac surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "70"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "71"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "72"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can normal knee kinematics be restored with unicompartmental knee replacement?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "73"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can dobutamine stress echocardiography induce cardiac troponin elevation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "74"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is it possible to stop treatment with nucleos(t)ide analogs in patients with e-antigen negative chronic hepatitis B?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "75"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does positron emission tomography change management in primary rectal cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "76"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "77"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "78"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is laparoscopic sonography a reliable and sensitive procedure for staging colorectal cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "79"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "80"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does concept mapping enhance learning outcome of nursing students?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "81"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does elective re-siting of intravenous cannulae decrease peripheral thrombophlebitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "82"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does topical N-acetylcysteine application after myringotomy cause severe otorrhea?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "83"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is Acupuncture Efficacious for Treating Phonotraumatic Vocal Pathologies?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "84"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Laparoscopic myomectomy: do size, number, and location of the myomas form limiting factors for laparoscopic myomectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "85"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "86"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does the leukocyte count correlate with the severity of injury?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "87"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Neck pain treatment with acupuncture: does the number of needles matter?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "88"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "89"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are women who are treated for hypothyroidism at risk for pregnancy complications?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "90"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Measurement of head and neck paragangliomas: is volumetric analysis worth the effort?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "91"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10 kg weight?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "92"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there any relationship between streptococcal infection and multiple sclerosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "93"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is there a uniform basal endometrial gene expression profile during the implantation window in women who became pregnant in a subsequent ICSI cycle?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "94"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "95"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "The English antibiotic awareness campaigns: did they change the public's knowledge of and attitudes to antibiotic use?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "96"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "97"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does prostate morphology affect outcomes after holmium laser enucleation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "98"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "99"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Vaccine protection in the elderly: are Austrian seniors adequately protected by vaccinations?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "100"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are the GFRUP's recommendations for withholding or withdrawing treatments in critically ill children applicable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "101"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does coronary angiography before emergency aortic surgery affect in-hospital mortality?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "102"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "103"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Cue-induced behavioural activation: a novel model of alcohol craving?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "104"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "105"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Artefacts in 24-h pharyngeal and oesophageal pH monitoring: is simplification of pH data analysis feasible?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "106"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "107"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Transgastric endoscopic splenectomy: is it possible?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "108"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Treadmill training post stroke: are there any secondary benefits?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "109"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "110"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Delayed diagnosis of anorectal malformations: are current guidelines sufficient?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "111"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Lloyd-Davies position with Trendelenburg--a disaster waiting to happen?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "112"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does patient-prosthesis mismatch after aortic valve replacement affect survival and quality of life in elderly patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "113"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "114"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is resected stomach volume related to weight loss after laparoscopic sleeve gastrectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "115"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "116"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "117"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are virtual planning and guided surgery for head and neck reconstruction economically viable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "118"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Parasacral sciatic nerve block: does the elicited motor response predict the success rate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "119"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do primary care physicians underprescribe antibiotics for peptic ulcer disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "120"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there a relationship between rheumatoid arthritis and periodontal disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "121"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can mandibular depiction be improved by changing the thickness of double-oblique computed tomography images?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "122"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "123"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does family practice at residency teaching sites reflect community practice?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "124"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "125"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do approved doctors and medical referees in the UK agree when assessing a seafarer's fitness?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "126"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does route of delivery affect maternal and perinatal outcome in women with eclampsia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "127"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "128"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Pertrochanteric fractures: is there an advantage to an intramedullary nail?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "129"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Standardizing care in medical oncology: are Web-based systems the answer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "130"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is being small for gestational age a risk factor for retinopathy of prematurity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "131"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is laparoscopic cholecystectomy safe and acceptable as a day case procedure?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "132"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "133"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "134"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Type II supracondylar humerus fractures: can some be treated nonoperatively?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "135"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "136"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is dexamethasone an effective alternative to oral prednisone in the treatment of pediatric asthma exacerbations?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "137"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "138"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is Panton-Valentine leucocidin associated with the pathogenesis of Staphylococcus aureus bacteraemia in the UK?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "139"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Storage of vaccines in the community: weak link in the cold chain?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "140"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "141"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are there associations of health status, disease activity and damage in SLE patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "142"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Inpatient versus outpatient management of neutropenic fever in gynecologic oncology patients: is risk stratification useful?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "143"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Gynecological cancer alarm symptoms: is contact with specialist care associated with lifestyle and socioeconomic status?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "144"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Cigarettes and cinema: does parental restriction of R-rated movie viewing reduce adolescent smoking susceptibility?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "145"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "146"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Risky sexual behavior among college students With ADHD: is the mother-child relationship protective?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "147"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "148"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does psychological distress predict disability?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "149"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does the Child Health Computing System adequately identify children with cerebral palsy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "150"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "A model of healing of Los Angeles grades C and D reflux oesophagitis: is there an optimal time of acid suppression for maximal healing?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "151"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "152"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "153"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Nutritional assessment of gluten-free diet. Is gluten-free diet deficient in some nutrient?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "154"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does automatic transmission improve driving behavior in older drivers?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "155"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can computerised tomography replace bone scintigraphy in detecting bone metastases from breast cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "156"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Very high serum CA 19-9 levels: a contraindication to pancreaticoduodenectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "157"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "158"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is serum total bilirubin useful to differentiate cardioembolic stroke from other stroke subtypes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "159"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do symptoms matter when considering patients for phase I clinical trials?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "160"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is acute fibrinous and organizing pneumonia the expression of immune dysregulation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "161"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Multidisciplinary breast cancer clinics. Do they work?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "162"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "163"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "164"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does the investing layer of the deep cervical fascia exist?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "165"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Should lower limb fractures be treated surgically in patients with chronic spinal injuries?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "166"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "167"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can we rely on arterial line sampling in performing activated plasma thromboplastin time after cardiac surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "168"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Living in an urban environment and non-communicable disease risk in Thailand: Does timing matter?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "169"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "170"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does histologic chorioamnionitis correspond to clinical chorioamnionitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "171"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "172"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does short-term treatment with proton pump inhibitors cause rebound aggravation of symptoms?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "173"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "174"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "175"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Actinobaculum schaalii, a cause of urinary tract infections in children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "176"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "The nurse cystoscopist: a feasible option?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "177"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "178"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "179"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "180"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "181"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there an increase in the incidence of gbs carrier rates among pregnant women in northern Israel?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "182"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is inhaled prophylactic heparin useful for prevention and Management of Pneumonia in ventilated ICU patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "183"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Chronic functional somatic symptoms: a single syndrome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "184"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "185"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Three-dimensional ultrasound-validated large-core needle biopsy: is it a reliable method for the histological assessment of breast lesions?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "186"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Analysis of the epidemiological pattern of Shigellosis in Barcelona between 1988 and 2012: Is it an emerging sexually transmitted infection?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "187"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Autoerotic asphyxiation: secret pleasure--lethal outcome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "188"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does exercise during pregnancy prevent postnatal depression?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "189"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "190"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is year of radical prostatectomy a predictor of outcome in prostate cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "191"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Effects of exercise training on heart rate and QT interval in healthy young individuals: are there gender differences?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "192"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Vitamin D supplementation and regulatory T cells in apparently healthy subjects: vitamin D treatment for autoimmune diseases?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "193"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "194"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Acute hepatitis C in Israel: a predominantly iatrogenic disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "195"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can dentists recognize manipulated digital radiographs?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "196"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy safe and effective as revision surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "197"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Mitral replacement or repair for functional mitral regurgitation in dilated and ischemic cardiomyopathy: is it really the same?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "198"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Literacy after cerebral hemispherectomy: Can the isolated right hemisphere read?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "199"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does a well developed collateral circulation predispose to restenosis after percutaneous coronary intervention?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "200"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does glomerular hyperfiltration in pregnancy damage the kidney in women with more parities?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "201"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "202"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is atropine needed with ketamine sedation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "203"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "204"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is tumour expression of VEGF associated with venous invasion and survival in pT3 renal cell carcinoma?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "205"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are WHO/UNAIDS/UNICEF-recommended replacement milks for infants of HIV-infected mothers appropriate in the South African context?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "206"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Can the Internet be used to improve sexual health awareness in web-wise young people?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "207"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "208"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "The objective structured clinical examination: can physician-examiners participate from a distance?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "209"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "210"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do general practice selection scores predict success at MRCGP?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "211"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Nasal fractures:  is closed reduction satisfying?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "212"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does microbial contamination influence the success of the hematopoietic cell transplantation outcomes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "213"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do follow-up recommendations for abnormal Papanicolaou smears influence patient adherence?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "214"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "215"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are physician estimates of asthma severity less accurate in black than in white patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "216"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "217"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Rotator cuff tear--an occupational disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "218"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "219"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does sex influence the response to intravenous thrombolysis in ischemic stroke?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "220"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can dose reduction to one parotid gland prevent xerostomia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "221"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can medical students contribute to quality assurance programmes in day surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "222"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Knee extensor strength, dynamic stability, and functional ambulation: are they related in Parkinson's disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "223"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is external palliative radiotherapy for gallbladder carcinoma effective?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "224"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Resection of colorectal liver metastases after second-line chemotherapy: is it worthwhile?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "225"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is the international normalised ratio (INR) reliable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "226"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Substance use and HIV-related sexual behaviors among US high school students: are they related?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "227"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Diagnostic characteristics of child bipolar I disorder: does the \"Treatment of Early Age Mania (team)\" sample generalize?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "228"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does higher body mass index contribute to worse asthma control in an urban population?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "229"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "230"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do familiar teammates request and accept more backup?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "231"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is the h-index predictive of greater NIH funding success among academic radiologists?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "232"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does responsibility affect the public's valuation of health care interventions?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "233"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Should direct mesocolon invasion be included in T4 for the staging of gastric cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "234"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Juvenile ankylosing spondylitis--is it the same disease as adult ankylosing spondylitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "235"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Must early postoperative oral intake be limited to laparoscopy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "236"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does menopausal transition affect the quality of life?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "237"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is a pressor necessary during aortic perfusion and oxygenation therapy of cardiac arrest?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "238"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "239"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Has the 80-hour workweek improved surgical resident education in New England?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "240"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can ki-67 play a role in prediction of breast cancer patients' response to neoadjuvant chemotherapy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "241"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Aromatase inhibitor-related musculoskeletal symptoms: is preventing osteoporosis the key to eliminating these symptoms?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "242"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Can implant retention be recommended for treatment of infected TKA?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "243"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is human cytomegalovirus infection associated with hypertension?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "244"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "245"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do symptoms predict COPD in smokers?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "246"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Diagnostic and therapeutic ureteroscopy: is dilatation of ureteral meatus always necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "247"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is aneurysm repair justified for the patients aged 80 or older after aneurysmal subarachnoid hemorrhage?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "248"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "249"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can patient coaching reduce racial/ethnic disparities in cancer pain control?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "250"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "251"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is ultrasound equal to X-ray in pediatric fracture diagnosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "252"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is there any interest to perform ultrasonography in boys with undescended testis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "253"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "254"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Laparoscopic-assisted ileocolic resections in patients with Crohn's disease: are abscesses, phlegmons, or recurrent disease contraindications?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "255"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "256"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does cup-cage reconstruction with oversized cups provide initial stability in THA for osteoporotic acetabular fractures?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "257"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "The secular growth acceleration: does it appear during fetal life?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "258"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is it time to reconsider lobectomy in low-risk paediatric thyroid cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "259"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can tailored interventions increase mammography use among HMO women?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "260"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Aripiprazole: a new risk factor for pathological gambling?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "261"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "262"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Recurrent spontaneous abortion and skewed X-inactivation: is there an association?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "263"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can clinicians use the PHQ-9 to assess depression in people with vision loss?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "264"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "265"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "A patient with myelomeningocele: is untethering necessary prior to scoliosis correction?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "266"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Spleen-preserving distal pancreatectomy with resection of the splenic vessels. Should one rely on the short gastric arteries?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "267"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does binge drinking during early pregnancy increase the risk of psychomotor deficits?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "268"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "After CLASS--Is a voluntary public insurance program a realistic way to meet the long-term support and service needs of adults with disabilities?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "269"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Inhibin: a new circulating marker of hydatidiform mole?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "270"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "271"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Should pulp chamber pulpotomy be seen as a permanent treatment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "272"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is the atopy patch test with house dust mites specific for atopic dermatitis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "273"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Cutaneous melanoma in a multiethnic population: is this a different disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "274"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth the additional cost of radiation and time?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "275"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "276"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "The influence of atmospheric pressure on aortic aneurysm rupture--is the diameter of the aneurysm important?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "277"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "278"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does sonographic needle guidance affect the clinical outcome of intraarticular injections?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "279"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Stage I non-small cell lung carcinoma: really an early stage?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "280"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is cytokeratin immunoreactivity useful in the diagnosis of short-segment Barrett's oesophagus in Korea?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "281"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Biomechanical and wound healing characteristics of corneas after excimer laser keratorefractive surgery: is there a difference between advanced surface ablation and sub-Bowman's keratomileusis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "282"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is intensive monitoring during the first transfusion in pediatric patients necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "283"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does preoperative anemia adversely affect colon and rectal surgery outcomes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "284"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive sleep apnea: does it offer a better quality of life and sleep?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "285"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does early migraine treatment shorten time to headache peak and reduce its severity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "286"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "287"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: does it affect the improvement of headache while reducing the side effects?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "288"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Doppler examination of uteroplacental circulation in early pregnancy: can it predict adverse outcome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "289"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does accompanying metabolic syndrome contribute to heart dimensions in hypertensive patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "290"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Patient comprehension of emergency department care and instructions: are patients aware of when they do not understand?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "291"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Metered-dose inhalers. Do health care providers know what to teach?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "292"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "293"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "The effective orifice area/patient aortic annulus area ratio: a better way to compare different bioprostheses?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "294"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do family physicians know the costs of medical care?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "295"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "296"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Appendectomy timing: Will delayed surgery increase the complications?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "297"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does a febrile reaction to platelets predispose recipients to red blood cell alloimmunization?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "298"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "299"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Treatment of vitamin D deficiency in CKD patients with ergocalciferol: are current K/DOQI treatment guidelines adequate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "300"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does β-catenin have a role in pathogenesis of sebaceous cell carcinoma of the eyelid?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "301"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "302"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is the Hawkins sign able to predict necrosis in fractures of the neck of the astragalus?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "303"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Do emergency medical services professionals think they should participate in disease prevention?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "304"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are laboratories reporting serum quantitative hCG results correctly?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "305"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are Reviewers' Scores Influenced by Citations to Their Own Work?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "306"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does rural or urban residence make a difference to neonatal outcome in premature birth?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "307"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is semi-closed endarterectomy of the superficial femoral artery combined with a short venous bypass in case of insufficient venous material an acceptable alternative for limb-threatening ischemia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "308"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does loss of consciousness predict neuropsychological decrements after concussion?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "309"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "310"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do people who were passive smokers during childhood have increased risk of long-term work disability?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "311"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is ankle/arm pressure predictive for cardiovascular mortality in older patients living in nursing homes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "312"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "The FOOTSTEP self-management foot care programme: are rheumatoid arthritis patients physically able to participate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "313"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does invasive diagnosis of nosocomial pneumonia during off-hours delay treatment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "314"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Oral mucocele/ranula: Another human immunodeficiency virus-related salivary gland disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "315"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "316"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry in 370 Postmenopausal Women?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "317"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does anastomotic leakage affect functional outcome after rectal resection for cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "318"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "319"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do hospitals provide lower quality care on weekends?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "320"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do older men benefit from curative therapy of localized prostate cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "321"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does hippocampal atrophy on MRI predict cognitive decline?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "322"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "323"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Has the prevalence of health care services use increased over the last decade (2001-2009) in elderly people?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "324"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "325"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "326"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Body dysmorphic disorder: does it have a psychotic subtype?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "327"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are serum leptin levels a prognostic factor in advanced lung cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "328"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is coeliac disease screening in risk groups justified?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "329"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "330"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do Wound Cultures Give Information About the Microbiology of Blood Cultures in Severe Burn Patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "331"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is peak concentration needed in therapeutic drug monitoring of vancomycin?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "332"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "333"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Prostate-specific antigen and free prostate-specific antigen in the early detection of prostate cancer: do combination tests improve detection?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "334"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "335"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "336"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does screening or surveillance for primary hepatocellular carcinoma with ultrasonography improve the prognosis of patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "337"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does pretreatment with statins improve clinical outcome after stroke?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "338"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can Roux-en-Y gastric bypass provide a lifelong solution for diabetes mellitus?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "339"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can vaginal pH be measured from the wet mount slide?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "340"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is HIV/STD control in Jamaica making a difference?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "341"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can predilatation in transcatheter aortic valve implantation be omitted?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "342"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does health information exchange reduce redundant imaging?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "343"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Chronic progressive cervical myelopathy with HTLV-I infection: Variant form of HAM/TSP?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "344"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can homemade alcohol (Raksi) be useful for preserving dead bodies?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "345"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Percutaneous ethanol injection for benign cystic thyroid nodules: is aspiration of ethanol-mixed fluid advantageous?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "346"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Failed IUD insertions in community practice: an under-recognized problem?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "347"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do resident's leadership skills relate to ratings of technical skill?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "348"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does the central venous pressure predict fluid responsiveness?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "349"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "350"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial tuberosity a reliable predictor of the PCL footprint location?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "351"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are bipolar disorders underdiagnosed in patients with depressive episodes?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "352"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "353"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Delays in time to primary treatment after a diagnosis of breast cancer: does it impact survival?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "354"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Therapeutic anticoagulation in the trauma patient: is it safe?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "355"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "356"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do patterns of knowledge and attitudes exist among unvaccinated seniors?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "357"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "358"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Emergency double-balloon enteroscopy combined with real-time viewing of capsule endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal bleeding?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "359"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "360"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does laparoscopic cholecystectomy influence peri-sinusoidal cell activity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "361"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is unsafe sexual behaviour increasing among HIV-infected individuals?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "362"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Esophagogastric devascularization without splenectomy in portal hypertension: safe and effective?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "363"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Are tuberculosis patients adherent to prescribed treatments in China?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "364"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is Chaalia/Pan Masala harmful for health?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "365"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "366"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does nuchal translucency thickness in the first trimester predict GDM onset during pregnancy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "367"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does hypoglycaemia increase the risk of cardiovascular events?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "368"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is transurethral catheterisation the ideal method of bladder drainage?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "369"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Do somatic complaints predict subsequent symptoms of depression?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "370"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Bridge experience with long-term implantable left ventricular assist devices. Are they an alternative to transplantation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "371"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is the fibronectin-aggrecan complex present in cervical disk disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "372"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "373"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "\"Would a man smell a rose then throw it away?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "374"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "375"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do communication disorders extend to musical messages?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "376"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "377"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "378"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does TDP-43 type confer a distinct pattern of atrophy in frontotemporal lobar degeneration?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "379"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "380"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there a discrepancy between patient and physician quality of life assessment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "381"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can static foot posture measurements predict regional plantar surface area?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "382"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "383"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Eyelid-parotid metastasis: do we screen for coexisting masses?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "384"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "May student examiners be reasonable substitute examiners for faculty in an undergraduate OSCE on medical emergencies?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "385"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Target Serum Urate: Do Gout Patients Know Their Goal?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "386"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Global Longitudinal Pathway: has medical education curriculum influenced medical students' skills and attitudes toward culturally diverse populations?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "387"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Systematic use of patient-rated depression severity monitoring: is it helpful and feasible in clinical psychiatry?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "388"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does high-dose radiotherapy benefit palliative lung cancer patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "389"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does tranexamic acid reduce desmopressin-induced hyperfibrinolysis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "390"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "391"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is the processing of affective prosody influenced by spatial attention?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "392"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is low birth weight a risk indicator for congenital cytomegalovirus infection?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "393"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "394"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does ischemic preconditioning require reperfusion before index ischemia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "395"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Cancer of the buccal mucosa: are margins and T-stage accurate predictors of local control?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "396"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does anterior laxity of the uninjured knee influence clinical outcomes of ACL reconstruction?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "397"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does preloading with colloids prevent hemodynamic changes when neurosurgical patients are subsequently changed to the seated position?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "398"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does parity increase insulin resistance during pregnancy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "399"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "400"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Is routine intraoperative frozen-section examination of sentinel lymph nodes in breast cancer worthwhile?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "401"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does induction chemotherapy have a role in the management of nasopharyngeal carcinoma?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "402"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Post-tonsillectomy late haemorrhage: is it a preferably night-time event?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "403"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "404"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Inpatient Pediatric Tonsillectomy: Does Hospital Type Affect Cost and Outcomes of Care?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "405"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Malnutrition, a new inducer for arterial calcification in hemodialysis patients?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "406"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is there a first night effect on sleep bruxism?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "407"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Some aspects of social exclusion: do they influence suicide mortality?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "408"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Affect-regulated exercise intensity: does training at an intensity that feels 'good' improve physical health?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "409"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is there awareness of pharmaceutical expenditure in the reformed primary care system?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "410"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "411"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "412"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does spontaneous remission occur in polyarteritis nodosa?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "413"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "414"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "415"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is gastric electrical stimulation superior to standard pharmacologic therapy in improving GI symptoms, healthcare resources, and long-term health care benefits?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "416"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are sugars-free medicines more erosive than sugars-containing medicines?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "417"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is scintigraphy a guideline method in determining amputation levels in diabetic foot?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "418"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Human papillomavirus and pterygium. Is the virus a risk factor?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "419"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Body perception: do parents, their children, and their children's physicians perceive body image differently?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "420"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Contrast-enhanced MR imaging of hand and finger joints in patients with early rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for assessing synovial enhancement at 3 T?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "421"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "422"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "423"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Should ascitis volume and anthropometric measurements be estimated in hospitalized alcoholic cirrotics?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "424"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Attenuation of ischemia/reperfusion-induced ovarian damage in rats: does edaravone offer protection?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "425"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does context matter for the relationship between deprivation and all-cause mortality?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "426"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "427"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "428"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Motor performance in chronic low back pain: is there an influence of pain-related cognitions?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "429"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is there an intrauterine influence on obesity?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "430"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Immunohistochemical assessment of steroid hormone receptors in tissues of the anal canal. Implications for anal incontinence?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "431"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "It's Fournier's gangrene still dangerous?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "432"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is the advanced age a contraindication to GERD laparoscopic surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "433"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "434"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Fatigue in primary Sjögren's syndrome: is there a link with the fibromyalgia syndrome?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "435"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Hearing loss: an unknown complication of pre-eclampsia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "436"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Double balloon enteroscopy: is it efficacious and safe in a community setting?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "437"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Follow-up of patients with new cardiovascular implantable electronic devices: are experts' recommendations implemented in routine clinical practice?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "438"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "439"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are physicians aware of the side effects of angiotensin-converting enzyme inhibitors?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "440"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is minilaparoscopic inguinal hernia repair feasible?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "441"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "442"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do mutations causing low HDL-C promote increased carotid intima-media thickness?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "443"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does having a regular primary care clinician improve quality of preventive care for young children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "444"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Dementia and aphasia in motor neuron disease: an underrecognised association?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "445"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does feeding tube insertion and its timing improve survival?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "446"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Juvenile osteochondritis dissecans: is it a growth disturbance of the secondary physis of the epiphysis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "447"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does fluoridation reduce the use of dental services among adults?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "448"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "449"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Should general practitioners call patients by their first names?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "450"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does base deficit predict mortality in patients with severe traumatic brain injury?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "451"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Nasal polyposis: is there an inheritance pattern?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "452"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "453"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can PRISM predict length of PICU stay?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "454"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is gastric cancer different in Korea and the United States?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "455"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Digital Tomosynthesis: A Viable Alternative to Noncontrast Computed Tomography for the Follow-Up of Nephrolithiasis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "456"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "457"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "CYP2D6*4 allele and breast cancer risk: is there any association?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "458"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "PREVALENCE OF THE STREPTOCOCUS AGALACTIAE IN THE PREGNANT WOMAN FROM THE AUTONOMIC CITY OF MELILLA: IS CULTURE A DETERMINANT FACTOR?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "459"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does Paget's disease exist in India?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "460"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "461"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Advanced epithelial ovarian carcinoma in Thai women: should we continue to offer second-look laparotomy?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "462"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "463"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does patella position influence ligament balancing in total knee arthroplasty?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "464"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do general practice characteristics influence uptake of an information technology (IT) innovation in primary care?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "465"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "The Deformity Angular Ratio: Does It Correlate With High-Risk Cases for Potential Spinal Cord Monitoring Alerts in Pediatric 3-Column Thoracic Spinal Deformity Corrective Surgery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "466"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Canada's Compassionate Care Benefit: is it an adequate public health response to addressing the issue of caregiver burden in end-of-life care?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "467"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do episodic migraineurs selectively attend to headache-related visual stimuli?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "468"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "469"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does high blood pressure reduce the risk of chronic low back pain?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "470"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Chemical shift MRI: is there any contribution to morphologic evaluation of solid breast masses?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "471"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does either obesity or OSA severity influence the response of autotitrating CPAP machines in very obese subjects?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "472"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "473"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is there still a need for living-related liver transplantation in children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "474"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "475"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Is cholecystectomy really an indication for concomitant splenectomy in mild hereditary spherocytosis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "476"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "477"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "School food policy at Dutch primary schools: room for improvement?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "478"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can we predict urinary stone composition based on an analysis of microelement concentration in the hair and urine?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "479"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does peritoneal dialysis affect halitosis in patients with end-stage renal disease?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "480"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is extended aortic replacement in acute type A dissection justifiable?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "481"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "482"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Undescended testes: does age at orchiopexy affect survival of the testis?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "483"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Ovarian torsion in children: is oophorectomy necessary?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "484"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does an additional antirotation U-Blade (RC) lag screw improve treatment of AO/OTA 31 A1-3 fractures with gamma 3 nail?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "485"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does cognitive function predict frequency compressed speech recognition in listeners with normal hearing and normal cognition?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "486"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does a colonoscopy after acute diverticulitis affect its management?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "487"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Do dermatomyositis and polymyositis affect similar thigh muscles?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "488"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Uniformity of evidence-based treatments in practice?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "489"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Elephant trunk in a small-calibre true lumen for chronic aortic dissection: cause of haemolytic anaemia?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "490"
+  },
+  {
+    "output": "<answer>C</answer>",
+    "question": "Does solid culture for tuberculosis influence clinical decision making in India?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "491"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do ART patients face higher C-section rates during their stage of delivery?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "492"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does obesity impact the pattern and outcome of trauma in children?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "493"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "494"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "495"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Search engine as a diagnostic tool in difficult immunological and allergologic cases: is Google useful?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "496"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Proliferative index obtained by DNA image cytometry. Does it add prognostic information in Auer IV breast cancer?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "497"
+  },
+  {
+    "output": "<answer>A</answer>",
+    "question": "Do liquid-based preparations of urinary cytology perform differently than classically prepared cases?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "498"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "499"
+  },
+  {
+    "output": "<answer>B</answer>",
+    "question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?",
+    "options": "A. yes\nB. no\nC. maybe",
+    "id": "500"
+  }
+]
