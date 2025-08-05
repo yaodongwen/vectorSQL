@@ -17,7 +17,7 @@ Enhance the initially generated databases to increase complexity and realism.
 1. Run `python3 generate_schema_enhancement_prompts.py` to create prompts for database enhancement.
 2. Run `python3 enhance_schema.py` to generate enhanced database schemas. (Implement the `llm_inference()` function to use your preferred LLMs.)
 
-## Step 3: Building Vector SQLite Databases
+## Step 3: Generate vector database schemas
 1. Run `python3 generate_schema_embedding_prompts.py` to create prompts for database vector table generation.
 2. Run `python3 embedding_schema.py` to generate vector database schemas. (Implement the `llm_inference()` function to use your preferred LLMs.)
 

@@ -151,15 +151,21 @@ if __name__ == '__main__':
     parser.add_argument("--api_key", type=str)
     parser.add_argument("--api_url", type=str)
     parser.add_argument("--max_workers", type=int, default=8)
+    parser.add_argument("--limited_num", type=int, default=0)
     args = parser.parse_args()
     
     # 加载提示
-    prompts = json.load(open("./prompts/prompts_schema_embedding.json", encoding='utf-8'))
+    limited_prompts = json.load(open("./prompts/prompts_schema_embedding.json", encoding='utf-8'))
     
+    #限制数据数目
+    limited_number = args.limited_num
+    if limited_number != 0:
+        limited_prompts = limited_prompts[:limited_number] 
+
     # 执行推理
     results = llm_inference(
         model=args.model,
-        prompts=prompts,
+        prompts=limited_prompts,
         api_key=args.api_key,
         api_url=args.api_url,
         max_workers=args.max_workers

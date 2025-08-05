@@ -87,7 +87,7 @@ def edu_distance(vector1, vector2):
     return math.sqrt(distance)
 
 if __name__ == "__main__":
-    input_dataset = json.load(open("./results/rtest.json"))
+    input_dataset = json.load(open("./results/question_synthesis.json"))
     output_file = "./results/question_and_sql_pairs.json"
 
     print("loading SentenceTransformer....")
